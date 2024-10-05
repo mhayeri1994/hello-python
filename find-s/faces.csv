@@ -1,0 +1,6 @@
+Eye,Nose,Head,Face_Color,Hair,Smile
+circle,triangle,circle,red,have,yes
+squire,squire,squire,green,have,no
+squire,triangle,circle,yellow,have_not,yes
+circle,triangle,circle,green,have_not,no
+squire,squire,circle,yellow,have,yes
